@@ -8,6 +8,12 @@
   color: #ffffff;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
 img {
   width: 100%;
   height: auto;
@@ -293,8 +299,7 @@ iframe {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-}
-
+        }
 .fantasy .mask {
   position: relative;
   width: 250px;
