@@ -237,7 +237,7 @@ iframe {
 
 .trending .mask {
   border-radius: 10px;
-  background-image: url("../img/trending.jpg");
+  background-image: url("../img/anticipated.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -245,11 +245,13 @@ iframe {
   height: 100%;
 }
 
-.romantic {
+
+
+.upcome {
   width: 100%;
 }
 
-.romantic .romantic-anime {
+.upcome .upcome-anime {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -262,33 +264,34 @@ iframe {
           justify-content: space-between;
 }
 
-.romantic .mask {
+.upcome .mask {
   position: relative;
   width: 250px;
   height: 400px;
 }
 
-.romantic .anime1 {
-  background-image: url("../img/your_name.jpg");
+.upcome .anime1 {
+  background-image: url("../img/SAO.jpg");
 }
 
-.romantic .anime2 {
-  background-image: url("../img/garden_of_words.jpg");
+.upcome .anime2 {
+  background-image: url("../img/jjk.png");
 }
 
-.romantic .anime3 {
-  background-image: url("../img/hello_world.jpg");
+.upcome .anime3 {
+  background-image: url("../img/GrandOrder.jpg");
 }
 
-.romantic .anime4 {
-  background-image: url("../img/fireworks.jpg");
+.upcome .anime4 {
+  background-image: url("../img/Sailor.jpg");
 }
 
-.fantasy {
+
+.Nseason {
   width: 100%;
 }
 
-.fantasy .fantasy-anime {
+.Nseason .season-anime {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -300,65 +303,29 @@ iframe {
       -ms-flex-pack: justify;
           justify-content: space-between;
         }
-.fantasy .mask {
+.Nseason .mask {
   position: relative;
   width: 250px;
   height: 400px;
 }
 
-.fantasy .anime1 {
-  background-image: url("../img/whisker_away.png");
+.Nseason .anime1 {
+  background-image: url("../img/komi.jfif");
 }
 
-.fantasy .anime2 {
-  background-image: url("../img/ponyo.jpg");
+.Nseason .anime2 {
+  background-image: url("../img/demon.jpg");
 }
 
-.fantasy .anime3 {
-  background-image: url("../img/moving_castle.jpg");
+.Nseason .anime3 {
+  background-image: url("../img/chain.jpg");
 }
 
-.fantasy .anime4 {
-  background-image: url("../img/totoro.jpg");
+.Nseason .anime4 {
+  background-image: url("../img/takt.jpeg");
 }
 
-
-.fantasy {
+.Nseason {
   width: 100%;
 }
-
-.action .action-anime {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-}
-
-.action .mask {
-  position: relative;
-  width: 250px;
-  height: 400px;
-}
-
-.action .anime1 {
- background-image: url("../img/kimetsu.jpg");
-}
-
-.action .anime2 {
-  background-image: url("../img/Fate.jpg");
-}
-
-.action .anime3 {
-  background-image: url("../img/Nogame.jpeg");
-}
-
-.action .anime4 {
-  background-image: url("../img/Hero.jpg");
-}
-
+=
